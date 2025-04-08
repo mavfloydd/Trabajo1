@@ -1,0 +1,15 @@
+---
+title: "Percepcion de inseguridad x politica"
+subtitle: "Scrip en quarto para ver base elsoc"
+author: "Erick Q y Tomas Pendola"
+date: "08 Abril 2025"
+lang: es
+format: html
+editor: visual
+---
+
+# Introducción
+
+JASDHJASHD
+
+## 
